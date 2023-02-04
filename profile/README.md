@@ -12,4 +12,11 @@ Corpusim is computer software that simulates the complete human organism. Every 
 
 Playful exploration is the best way to gain intuition about complex systems. Corpusim gives you intuitive, instructive interactions with the complex, hierarchical structures of the human organism. 
 
-[corpusim.com](https://www.corpusim.com/)
+[corpusim.com](https://www.corpusim.com/) RDT for our current focus: a graphics overhaul. This work involves the manipulation of Signed Distance Functions (SDFs), which is the basis of Corpusim moving forward.
+
+## Research, Discovery, and Testing Projects
+
+[RDT SDF Engine](https://github.com/Corpusim/Corpusim_RDT_SDF_Engine/tree/dev) is our current focus: a graphics overhaul. This work involves the manipulation of Signed Distance Functions (SDFs), which is the basis of Corpusim moving forward.
+
+[RDT Graphics](https://github.com/Corpusim/Corpusim_RDT_Graphics) is our initial Research, Discovery, and Testing (RDT) project for graphics. Focused on procedurally-generated tissues and materials. We've since moved away from this "meshed voxel" approach. 
+
