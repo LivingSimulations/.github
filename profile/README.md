@@ -12,7 +12,7 @@ Corpusim is computer software that simulates the complete human organism. Every 
 
 Playful exploration is the best way to gain intuition about complex systems. Corpusim gives you intuitive, instructive interactions with the complex, hierarchical structures of the human organism. 
 
-[corpusim.com](https://www.corpusim.com/) RDT for our current focus: a graphics overhaul. This work involves the manipulation of Signed Distance Functions (SDFs), which is the basis of Corpusim moving forward.
+[corpusim.com](https://www.corpusim.com/)
 
 ## Research, Discovery, and Testing Projects
 
