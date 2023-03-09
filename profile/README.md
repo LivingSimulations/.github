@@ -1,8 +1,6 @@
 # Corpusim
 
-*The Infinitely Explorable Organism Simulator*
-
-It's like a flight simulator for the human body.
+*A flight simulator for the human body.*
 
 Watch the 4-minute [About Video](https://www.youtube.com/watch?v=ONBq9S_s9xw)
 
