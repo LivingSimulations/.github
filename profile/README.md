@@ -1,18 +1,19 @@
-## Corpusim | *A flight simulator for the human body.*
+## Living Simulations | *Embrace Your Explorer Within*
 
-Watch the 4-minute [About Video](https://www.youtube.com/watch?v=ONBq9S_s9xw)
+### About Corpusim
 
-## About Corpusim 
+Corpusim is a groundbreaking software that provides a comprehensive simulation of the human body. From macroscopic structures to microscopic details, it's designed as a powerful tool to explore anatomy and physiology, and is freely available as open-source software.
 
-Corpusim is computer software that simulates the complete human organism. Every region. Every scale. Its the tool we're building to understand anatomy and physiology, and we're sharing it with the world as free and open source software.
+At Living Simulations, we believe that playful exploration fosters deeper understanding of complex systems. Corpusim enables users to engage intuitively with the intricate, hierarchical nature of human biology.
 
-Playful exploration is the best way to gain intuition about complex systems. Corpusim gives you intuitive, instructive interactions with the complex, hierarchical structures of the human organism. 
+For more details, visit [livsims.com](https://www.livsims.com/).
 
-[corpusim.com](https://www.corpusim.com/)
+### Research, Discovery, and Testing Projects
 
-## Research, Discovery, and Testing Projects
+Our current project, the **RDT SDF Engine**, focuses on a complete graphics overhaul through the implementation of Signed Distance Functions (SDFs). This upgrade is pivotal for the future of Corpusim.
 
-**RDT SDF Engine** is our current focus: a graphics overhaul. This work involves the manipulation of Signed Distance Functions (SDFs), which is the basis of Corpusim moving forward.
+### About BodyZoomer
 
-[RDT Graphics](https://github.com/Corpusim/Corpusim_RDT_Graphics) is our initial Research, Discovery, and Testing (RDT) project for graphics. Focused on procedurally-generated tissues and materials. We've since moved away from this "meshed voxel" approach. 
+Complementing our flagship product, BodyZoomer serves as an interactive map of the human body, offering intuitive navigation across various anatomical scales—from organ systems to organelles. It's designed to be highly graphical and mobile-friendly, streamlining your exploration experience. 
 
+**Features** include interactive mapping tools akin to planning your next vacation, along with a versatile sketchpad for doctors to illustrate anatomical concepts swiftly and efficiently.
